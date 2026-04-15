@@ -5,6 +5,12 @@
       "name": "Administrador",
       "email": "admin@email.com",
       "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Juan ",
+      "email": "Juan@email.com",
+      "password": "123456"
     }
   ],
   "proyectos": [
